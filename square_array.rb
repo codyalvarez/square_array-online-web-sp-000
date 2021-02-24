@@ -3,5 +3,4 @@ def square_array(array)
     x**2
   end
 
-  # your code here
 end
