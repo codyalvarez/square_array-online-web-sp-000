@@ -1,7 +1,6 @@
 def square_array(array)
-  array.each_with_index do |x|
-    new_array = x**2
-    new_array
+  array.each do |x|
+    x**2
   end
 
   # your code here
